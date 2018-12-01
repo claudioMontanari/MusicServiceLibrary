@@ -1,0 +1,9 @@
+6
+Song Title 6
+Artist Name 6
+6
+2
+Band 6 Member 0
+Band 6 Member 1
+12.990000
+--- Music Clip Section ---

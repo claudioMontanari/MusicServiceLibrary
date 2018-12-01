@@ -1,0 +1,11 @@
+0
+Song Title
+Artist Name
+8
+4
+Guitarist
+Guitarist2
+Batterist
+Second Singer
+19.990000
+--- Music Clip Section ---

@@ -1,0 +1,10 @@
+1234
+Title of the song
+Artist of the song
+8
+3
+Band member 1
+Band member 2 
+Band member 4
+12.300000
+Here start the clip song ...

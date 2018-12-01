@@ -1,0 +1,9 @@
+7
+Song Title 7
+Artist Name 7
+5
+2
+Band 7 Member 0
+Band 7 Member 1
+12.500000
+--- Music Clip Section ---

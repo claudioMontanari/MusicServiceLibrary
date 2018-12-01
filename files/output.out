@@ -1,0 +1,98 @@
+Here are the Music Clips in the system:
+ID: 0
+Index: 0
+Title: Song Title
+Artist: Artist Name
+Genre: Rock
+Band Members: Guitarist, Guitarist2, Batterist, Second Singer
+Price: 19.99
+
+ID: 1
+Index: 1
+Title: Song Title
+Artist: Artist Name
+Genre: Rock
+Band Members: 
+Price: 66.6
+
+ID: 2
+Index: 2
+Title: Song Title 2
+Artist: Artist Name 2
+Genre: Folk Music
+Band Members: Band 2 Member 0
+Price: 1.5
+
+ID: 3
+Index: 3
+Title: Jungle song
+Artist: Human creature
+Genre: Folk Music
+Band Members: Hyppo pippo, Dog max
+Price: 1.5
+
+ID: 4
+Index: 4
+Title: title4 new
+Artist: artist4 new
+Genre: Jazz
+Band Members: quit
+Price: 12.555
+
+ID: 5
+Index: 5
+Title: new title 5
+Artist: new aritst 5
+Genre: Jazz
+Band Members: band member 1
+Price: 90.9
+
+ID: 6
+Index: 6
+Title: Song Title 6
+Artist: Artist Name 6
+Genre: Country Music
+Band Members: Band 6 Member 0, Band 6 Member 1
+Price: 12.99
+
+ID: 7
+Index: 7
+Title: Song Title 7
+Artist: Artist Name 7
+Genre: Classical
+Band Members: Band 7 Member 0, Band 7 Member 1
+Price: 12.5
+
+ID: 8
+Index: 8
+Title: Song Title 8
+Artist: Artist Name 8
+Genre: Classical
+Band Members: 
+Price: 77.7
+
+ID: 9
+Index: 9
+Title: Song Title 9
+Artist: Artist Name 9
+Genre: Blues
+Band Members: Band 9 Member 0
+Price: 15.5
+
+
+Creation of a new music clip:
+ID (must be between 0 and 9): Title: Artist: People: (write quit to stop with the people list)People: (write quit to stop with the people list)People: (write quit to stop with the people list)Genre: Price: Node correctly saved into the file temp.clip
+Insert the id of the file you want to edit (values between 0-9)
+Clip successfully found and set as current
+Insert new price for current music clip: 
+Music Clip updated successfully: 
+ID: 6
+Index: 6
+Title: Song Title 6
+Artist: Artist Name 6
+Genre: Country Music
+Band Members: Band 6 Member 0, Band 6 Member 1
+Price: 12.99
+
+Saving all the updated music clip in memory...
+Music clip saved successfully
